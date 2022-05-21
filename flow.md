@@ -4,6 +4,7 @@
 * [The Cadence Programming Language](https://docs.onflow.org/cadence/language/)
 * [Testnet Faucet](https://testnet-faucet.onflow.org)
 * [Blotco Swap TestNet](https://swap-testnet.blocto.app/)
+* [Flow Config file format](https://docs.onflow.org/flow-cli/configuration/)
 
 
 
