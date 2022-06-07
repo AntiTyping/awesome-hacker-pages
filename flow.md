@@ -9,6 +9,8 @@
   * [Fungible Token Contract](https://docs.onflow.org/core-contracts/fungible-token/)
 * [How to Create NFTs Like NBA Top Shot With Flow and IPFS](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
 
+* https://github.com/onflow/kitty-items/blob/master/api/src/services/kitty-items.ts#L43-L67
+* https://github.com/onflow/kitty-items/blob/master/api/src/workers/listing-handler.ts
 
 <div class="layout__Content-sc-kguczs-1 eFfSgN"><h1>Resources</h1><p>Here is a list of handy resources that for your further journey with CryptoDappy and Flow.
 The best place to continue after finishing CryptoDappy is Flow's official reference dapp
