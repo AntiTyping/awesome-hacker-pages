@@ -11,6 +11,9 @@
 
 * https://github.com/onflow/kitty-items/blob/master/api/src/services/kitty-items.ts#L43-L67
 * https://github.com/onflow/kitty-items/blob/master/api/src/workers/listing-handler.ts
+* https://swap-testnet.blocto.app/#/swap
+* https://testnet-faucet.onflow.org/fund-account
+* https://flow-view-source.com/testnet/account/0xabf604649b4154bf
 
 <div class="layout__Content-sc-kguczs-1 eFfSgN"><h1>Resources</h1><p>Here is a list of handy resources that for your further journey with CryptoDappy and Flow.
 The best place to continue after finishing CryptoDappy is Flow's official reference dapp
