@@ -5,6 +5,8 @@
 * [Testnet Faucet](https://testnet-faucet.onflow.org)
 * [Blotco Swap TestNet](https://swap-testnet.blocto.app/)
 * [Flow Config file format](https://docs.onflow.org/flow-cli/configuration/)
+* [Flow Core Contracts](https://docs.onflow.org/core-contracts/)
+  * [Fungible Token Contract](https://docs.onflow.org/core-contracts/fungible-token/)
 
 
 
