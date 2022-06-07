@@ -7,7 +7,7 @@
 * [Flow Config file format](https://docs.onflow.org/flow-cli/configuration/)
 * [Flow Core Contracts](https://docs.onflow.org/core-contracts/)
   * [Fungible Token Contract](https://docs.onflow.org/core-contracts/fungible-token/)
-
+* [How to Create NFTs Like NBA Top Shot With Flow and IPFS](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
 
 
 <div class="layout__Content-sc-kguczs-1 eFfSgN"><h1>Resources</h1><p>Here is a list of handy resources that for your further journey with CryptoDappy and Flow.
