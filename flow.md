@@ -2,18 +2,31 @@
 
 * [Docs](https://docs.onflow.org)
 * [The Cadence Programming Language](https://docs.onflow.org/cadence/language/)
-* [Testnet Faucet](https://testnet-faucet.onflow.org)
-* [Blotco Swap TestNet](https://swap-testnet.blocto.app/)
 * [Flow Config file format](https://docs.onflow.org/flow-cli/configuration/)
 * [Flow Core Contracts](https://docs.onflow.org/core-contracts/)
   * [Fungible Token Contract](https://docs.onflow.org/core-contracts/fungible-token/)
 * [How to Create NFTs Like NBA Top Shot With Flow and IPFS](https://medium.com/pinata/how-to-create-nfts-like-nba-top-shot-with-flow-and-ipfs-701296944bf)
 
-* https://github.com/onflow/kitty-items/blob/master/api/src/services/kitty-items.ts#L43-L67
-* https://github.com/onflow/kitty-items/blob/master/api/src/workers/listing-handler.ts
+
+# Emulator
+
+# Testnet
+* [Testnet Faucet](https://testnet-faucet.onflow.org)
+* [Blotco Swap TestNet](https://swap-testnet.blocto.app/)
+* https://flow-view-source.com/testnet/status
 * https://swap-testnet.blocto.app/#/swap
 * https://testnet-faucet.onflow.org/fund-account
 * https://flow-view-source.com/testnet/account/0xabf604649b4154bf
+
+# Mainnet
+
+# Example DApps
+* https://www.cryptodappy.com
+* https://github.com/onflow/kitty-items
+
+# Code Examples
+* https://github.com/onflow/kitty-items/blob/master/api/src/services/kitty-items.ts#L43-L67
+* https://github.com/onflow/kitty-items/blob/master/api/src/workers/listing-handler.ts
 
 <div class="layout__Content-sc-kguczs-1 eFfSgN"><h1>Resources</h1><p>Here is a list of handy resources that for your further journey with CryptoDappy and Flow.
 The best place to continue after finishing CryptoDappy is Flow's official reference dapp
