@@ -6,5 +6,6 @@
 * convert strings to numbers
 * calculate subtotals
 # Process data
+* groupby
 # Analize data
 # Output results
