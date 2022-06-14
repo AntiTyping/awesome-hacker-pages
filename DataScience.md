@@ -7,5 +7,6 @@
 * calculate subtotals
 # Process data
 * groupby
+* apply
 # Analize data
 # Output results
