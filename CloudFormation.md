@@ -16,3 +16,9 @@
 # AWS Books
 
 * [Mastering AWS CloudFormation](https://learning.oreilly.com/library/view/mastering-aws-cloudformation/9781789130935/)
+
+# Docs
+
+* [AWS::EC2::Instance](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html)
+* [AWS::EC2::Subnet](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-subnet.html)
+* [AWS::EC2::VPC](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-vpc.html)
