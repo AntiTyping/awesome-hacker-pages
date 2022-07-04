@@ -8,7 +8,7 @@
 
 # AWS Videos
 
-* [AWS CloudFormation Master Class}(https://learning.oreilly.com/videos/aws-cloudformation-master/9781789343694/)
+* [AWS CloudFormation Master Class](https://learning.oreilly.com/videos/aws-cloudformation-master/9781789343694/)
 * [Amazon Web Services (AWS) LiveLessons](https://learning.oreilly.com/videos/amazon-web-services/9780137928521/)
 * [Automation in AWS with CloudFormation, CLI, and SDKs](https://learning.oreilly.com/videos/automation-in-aws/9780134818313/)
 * [Networking in Amazon Web Services AWS LiveLessons](https://learning.oreilly.com/videos/networking-in-amazon/9780134850849/)
